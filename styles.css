@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 100px 0px;
+}
+
+#homepage-h1 {
+    text-align: center !important;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choice-button {
+    margin: 100px; 
+    padding: 150px 100px; 
+    font-size: 16px; 
+    cursor: pointer;
+}
+
+#color-blue {
+    color: blue;
+}
